@@ -35,6 +35,6 @@ Contents
    materials/articles
    materials/videos
    materials/interactive_examples
-   interactive_code_editor
+   :interactive_code_editor:`Interactive Code Editor <>`
    guided_projects/project_1
    guided_projects/project_2

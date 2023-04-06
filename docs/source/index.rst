@@ -18,7 +18,8 @@ Contents
 --------
 
 .. toctree::
-   :caption: Contents:
+
+   usage
    introduction
    materials/articles
    materials/videos
